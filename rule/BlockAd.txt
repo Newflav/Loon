@@ -1,0 +1,66 @@
+# > Apple
+domain,ocsp.apple.com,reject
+domain,api-adservices.apple.com,reject
+domain,advertising.apple.com,reject
+domain,apple.comscoreresearch.com,reject
+domain,iadcontent.apple.com,reject
+domain,iadmoo.apple.com,reject
+domain,iadworkbench.apple.com,reject
+domain,launch.apple.com,reject
+domain,qwapi.apple.com,reject
+domain,securemetrics.apple.com,reject
+domain,webproxy-advp.iad-apple.com,reject
+domain,webproxy-advp.iad-apple.com.akadns.net,reject
+domain-suffix,advp.apple.com,reject
+
+# > 高德地图
+domain,awaken.amap.com,reject
+domain,free-aos-cdn-image.amap.com,reject
+
+# > 建设银行
+domain,adv.ccb.com,reject
+domain,imageadv.ccb.com,reject
+
+# > 美团
+domain,al-log.d.meituan.net,reject
+domain,babel-statistics-android.d.meituan.net,reject
+domain,maplocatesdksnapshot.d.meituan.net,reject
+domain,metrics-picture.d.meituan.net,reject
+domain,route-stats.d.meituan.net,reject
+
+# > 腾讯
+domain,qzs.qq.com,reject
+domain,tpns.qq.com,reject
+domain,info4.video.qq.com,reject
+domain,info6.video.qq.com,reject
+domain,wxsmsdy.video.qq.com,reject
+domain,ios.video.mpush.qq.com,reject
+domain,vv6.video.qq.com,reject
+domain,ipv4.gdt.qq.com,reject
+domain,qqadapt.qpic.cn,reject
+ip-cidr,47.110.187.87/32,reject
+
+# > 知乎
+domain,appcloud.zhihu.com,reject
+domain,crash2.zhihu.com,reject
+domain,mqtt.zhihu.com,reject
+domain,sugar.zhihu.com,reject
+ip-cidr,103.41.167.237/32,reject
+ip-cidr,118.89.204.198/32,reject
+ip-cidr6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,reject
+
+# > 字节跳动
+domain,ad.zijieapi.com,reject
+
+# > 阻止反诈收集信息
+domain-suffix,gjfzpt.cn,reject
+ip-cidr,219.143.187.136/32,reject
+
+# > 百度贴吧屏蔽域名dns查询
+ip-cidr,180.76.76.200/32,reject
+
+# > bilibili 减少手机缓存占用
+domain,upos-sz-staticcos.bilivideo.com,reject
+
+# > 小红书 减少手机缓存占用
+domain,fe-static.xhscdn.com,reject

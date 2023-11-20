@@ -1,0 +1,109 @@
+# ---(Apple)---
+domain, amp-api.podcasts.apple.com
+domain, beta.music.apple.com
+domain, books.itunes.apple.com
+domain, lookup-api.apple.com
+domain, radio.itunes.apple.com
+domain, gateway.icloud.com
+domain, news-assets.apple.com
+domain, news-client.apple.com
+domain, news-client-search.apple.com
+domain, news-edge.apple.com
+domain, news-events.apple.com
+domain-suffix, books.apple.com
+domain-suffix, tv.apple.com
+domain-suffix, apple.news
+
+# > Testflight
+domain, beta.apple.com
+domain, testflight.apple.com
+
+# > Microsoft
+domain, assets1.xboxlive.com
+domain, assets2.xboxlive.com
+domain, az416426.vo.msecnd.net
+domain, az668014.vo.msecnd.net
+domain-suffix, bing.com
+domain-suffix, linkedin.com
+domain-suffix, licdn.com
+domain-suffix, msn.com
+domain-suffix, skype.com
+domain-suffix, aka.ms
+domain-suffix, github.blog
+domain-suffix, github.com
+domain-suffix, github.io
+domain-suffix, githubassets.com
+domain-suffix, githubusercontent.com
+domain-keyword, github
+domain-suffix, streaming.mediaservices.windows.net
+domain-suffix, microsoft.com
+domain-suffix, office.com
+domain-suffix, office365.com
+domain-suffix, outlook.com
+domain-suffix, live.com
+domain-suffix, appcenter.ms
+
+# > Wikimedia Foundation
+domain-suffix, mediawiki.org
+domain-suffix, wikibooks.org
+domain-suffix, wikidata.org
+domain-suffix, wikileaks.org
+domain-suffix, wikimedia.org
+domain-suffix, wikimediafoundation.org
+domain-suffix, wikinews.org
+domain-suffix, wikipedia.org
+domain-suffix, wikiquote.org
+domain-suffix, wikisource.org
+domain-suffix, wikiversity.org
+domain-suffix, wikivoyage.org
+domain-suffix, wiktionary.org
+
+# > Yahoo
+domain-suffix, yahoo.com
+domain-keyword, yahoo
+
+# > Notion
+domain-suffix, notion-static.com
+domain-suffix, notion.com
+domain-suffix, notion.new
+domain-suffix, notion.site
+domain-suffix, notion.so
+
+# > Gitlab
+domain-suffix, gitlab.io
+domain-suffix, gitlab.com
+domain-suffix, gitlab.net
+
+# > Talkatone
+domain, ocsp.sectigo.com
+domain, ocsp.r2m01.amazontrust.com
+domain-suffix, tktn.be
+domain-suffix, mobilefuse.com
+domain-keyword, tktn
+ip-cidr, 69.46.75.0/22
+ip-cidr, 131.153.7.0/22
+ip-cidr, 104.244.53.0/22
+ip-cidr, 198.24.161.0/22
+ip-cidr, 205.164.56.0/22
+
+# > Signal
+domain-suffix, signal.org
+domain-suffix, hcaptcha.com
+
+# > Proton
+domain-suffix, proton.me
+
+# > Tutanota
+domain-suffix, tuta.com
+domain-suffix, tutanota.com
+
+# > Deepl
+domain-suffix, deepl.com
+
+# > Papago
+domain-suffix, naver.com
+domain-suffix, naver.net
+
+# > 代理工具
+domain-keyword, nsloon
+domain-keyword, quantumult
