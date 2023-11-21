@@ -28,7 +28,6 @@ domain-suffix,javquick.com
 domain-suffix,missav.com
 domain-suffix,pwaojdslfsa.buzz
 domain-suffix,helloavgirls.com
-domain-suffix,av01.tv,台湾节点
 
 # > 其他分流修正
 domain,video.xhyded.com
