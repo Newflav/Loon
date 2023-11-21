@@ -39,11 +39,6 @@ domain-suffix,livemi.live,direct
 domain-suffix,wtmdjxkq.com,direct
 domain-suffix,servicewechat.com,direct
 domain-suffix,qq.com,direct
-domain-suffix,hk,香港节点
-domain-suffix,tw,台湾节点
-domain-suffix,jp,日本节点
-domain-suffix,mil,美国节点
-domain-suffix,sg,新加坡节点
 domain-suffix,cn,direct
 
 # > GeoIP
