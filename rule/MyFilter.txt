@@ -1,45 +1,45 @@
 # > local
-ip-cidr,10.0.0.0/8,direct
-ip-cidr,127.0.0.0/8,direct
-ip-cidr,172.16.0.0/12,direct
-ip-cidr,192.168.0.0/16,direct
-ip-cidr,224.0.0.0/24,direct
+ip-cidr,10.0.0.0/8
+ip-cidr,127.0.0.0/8
+ip-cidr,172.16.0.0/12
+ip-cidr,192.168.0.0/16
+ip-cidr,224.0.0.0/24
 
 # > 苹果直连
-ip-cidr,17.249.0.0/16,direct
-ip-cidr,17.252.0.0/16,direct
-ip-cidr,17.57.144.0/22,direct
-ip-cidr,17.188.128.0/18,direct
-ip-cidr,17.188.20.0/23,direct
-ip-cidr6,2620:149:a44::/48,direct
-ip-cidr6,2403:300:a42::/48,direct
-ip-cidr6,2403:300:a51::/48,direct
-ip-cidr6,2a01:b740:a42::/48,direct
-domain-suffix,apple.com,direct
-domain-suffix,icloud.com,direct
-domain-suffix,mzstatic.com,direct
+ip-cidr,17.249.0.0/16
+ip-cidr,17.252.0.0/16
+ip-cidr,17.57.144.0/22
+ip-cidr,17.188.128.0/18
+ip-cidr,17.188.20.0/23
+ip-cidr6,2620:149:a44::/48
+ip-cidr6,2403:300:a42::/48
+ip-cidr6,2403:300:a51::/48
+ip-cidr6,2a01:b740:a42::/48
+domain-suffix,apple.com
+domain-suffix,icloud.com
+domain-suffix,mzstatic.com
 
 # > NSFW
-domain-suffix,mushroomtrack.com,direct
-domain-suffix,akamai-content-network.com,direct
-domain-suffix,supjav.com,direct
-domain-suffix,techviba.com,direct
-domain-suffix,javquick.com,direct
-domain-suffix,missav.com,direct
-domain-suffix,pwaojdslfsa.buzz,direct
-domain-suffix,helloavgirls.com,direct
+domain-suffix,mushroomtrack.com
+domain-suffix,akamai-content-network.com
+domain-suffix,supjav.com
+domain-suffix,techviba.com
+domain-suffix,javquick.com
+domain-suffix,missav.com
+domain-suffix,pwaojdslfsa.buzz
+domain-suffix,helloavgirls.com
 domain-suffix,av01.tv,台湾节点
 
 # > 其他分流修正
-domain,video.xhyded.com,direct
-domain,pull-gaia-bac.soucan.so,direct
-domain-suffix,b7k.cc,direct
-domain-suffix,tpian.xyz,direct
-domain-suffix,livemi.live,direct
-domain-suffix,wtmdjxkq.com,direct
-domain-suffix,servicewechat.com,direct
-domain-suffix,qq.com,direct
-domain-suffix,cn,direct
+domain,video.xhyded.com
+domain,pull-gaia-bac.soucan.so
+domain-suffix,b7k.cc
+domain-suffix,tpian.xyz
+domain-suffix,livemi.live
+domain-suffix,wtmdjxkq.com
+domain-suffix,servicewechat.com
+domain-suffix,qq.com
+domain-suffix,cn
 
 # > GeoIP
-geoip,cn,direct
+geoip,cn
