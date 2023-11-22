@@ -34,6 +34,7 @@ domain-suffix,qq.com
 domain-suffix,jd.com
 domain-suffix,163.com
 domain-suffix,baidu.com
+domain-suffix,360buyimg.com
 domain-suffix,cn
 
 # > GeoIP
