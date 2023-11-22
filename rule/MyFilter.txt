@@ -31,6 +31,9 @@ domain-suffix,livemi.live
 domain-suffix,wtmdjxkq.com
 domain-suffix,servicewechat.com
 domain-suffix,qq.com
+domain-suffix,jd.com
+domain-suffix,163.com
+domain-suffix,baidu.com
 domain-suffix,cn
 
 # > GeoIP
