@@ -1,0 +1,11 @@
+# > Talkatone
+domain, ocsp.sectigo.com
+domain, ocsp.r2m01.amazontrust.com
+domain-suffix, tktn.be
+domain-suffix, mobilefuse.com
+domain-keyword, tktn
+ip-cidr, 69.46.75.0/22
+ip-cidr, 131.153.7.0/22
+ip-cidr, 104.244.53.0/22
+ip-cidr, 198.24.161.0/22
+ip-cidr, 205.164.56.0/22
