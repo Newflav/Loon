@@ -38,23 +38,23 @@ domain,ios.video.mpush.qq.com
 domain,vv6.video.qq.com
 domain,ipv4.gdt.qq.com
 domain,qqadapt.qpic.cn
-ip-cidr,47.110.187.87/32
+ip-cidr,47.110.187.87/32,no-resolve
 
 # > 知乎
 domain,appcloud.zhihu.com
 domain,crash2.zhihu.com
 domain,mqtt.zhihu.com
 domain,sugar.zhihu.com
-ip-cidr,103.41.167.237/32
-ip-cidr,118.89.204.198/32
-ip-cidr6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
+ip-cidr,103.41.167.237/32,no-resolve
+ip-cidr,118.89.204.198/32,no-resolve
+ip-cidr6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 
 # > 字节跳动
 domain,ad.zijieapi.com
 
 # > 阻止反诈收集信息
 domain-suffix,gjfzpt.cn
-ip-cidr,219.143.187.136/32
+ip-cidr,219.143.187.136/32,no-resolve
 
 # > 百度贴吧屏蔽域名dns查询
-ip-cidr,180.76.76.200/32
+ip-cidr,180.76.76.200/32,no-resolve
