@@ -58,9 +58,3 @@ ip-cidr,219.143.187.136/32
 
 # > 百度贴吧屏蔽域名dns查询
 ip-cidr,180.76.76.200/32
-
-# > bilibili 减少手机缓存占用
-domain,upos-sz-staticcos.bilivideo.com
-
-# > 小红书 减少手机缓存占用
-domain,fe-static.xhscdn.com
