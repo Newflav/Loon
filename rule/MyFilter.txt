@@ -18,7 +18,6 @@ domain-suffix,akamai-content-network.com
 domain-suffix,supjav.com
 domain-suffix,techviba.com
 domain-suffix,javquick.com
-domain-suffix,missav.com
 domain-suffix,pwaojdslfsa.buzz
 domain-suffix,helloavgirls.com
 
