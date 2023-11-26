@@ -97,4 +97,4 @@ domain-keyword, nsloon
 domain-keyword, quantumult
 
 # > 其他
-domain-suffix,mil
+domain-suffix, mil
