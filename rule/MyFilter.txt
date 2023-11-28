@@ -31,6 +31,10 @@ domain-suffix, livemi.live
 domain-suffix, wtmdjxkq.com
 domain-suffix, servicewechat.com
 domain-suffix, qq.com
+domain-suffix, wechat.com
+domain-suffix, weixin.com
+domain-suffix, wechatpay.com
+domain-suffix, gtimg.com
 domain-suffix, qiumibao.com
 domain-suffix, dongqiudi.com
 domain-suffix, qunliao.info
@@ -50,9 +54,10 @@ domain-suffix, pinduoduo.net
 domain-suffix, pinduoduo.com
 domain-suffix, pddpic.com
 domain-suffix, amap.com
+domain-suffix, netease.com
 domain-suffix, 126.net
 domain-suffix, 163.com
-domain-suffix, netease.com
+IP-ASN, 132203
 domain-suffix, cn
 
 # > GeoIP
