@@ -61,6 +61,9 @@ domain-suffix, 127.net
 domain-suffix, 163.com
 domain-suffix, cn
 
+# > GeoIP
+geoip, cn, no-resolve
+
 # > ChinaASN
 IP-ASN, 10111, no-resolve
 IP-ASN, 10206, no-resolve
@@ -929,6 +932,3 @@ IP-ASN, 9814, no-resolve
 IP-ASN, 9818, no-resolve
 IP-ASN, 9929, no-resolve
 IP-ASN, 9939, no-resolve
-
-# > GeoIP
-geoip, cn, no-resolve
