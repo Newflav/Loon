@@ -52,6 +52,7 @@ domain-suffix, pddpic.com
 domain-suffix, amap.com
 domain-suffix, 126.net
 domain-suffix, 163.com
+domain-suffix, netease.com
 domain-suffix, cn
 
 # > GeoIP
