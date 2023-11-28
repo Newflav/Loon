@@ -58,8 +58,8 @@ domain-suffix, netease.com
 domain-suffix, 126.net
 domain-suffix, 127.net
 domain-suffix, 163.com
-IP-ASN, 132203
 domain-suffix, cn
+IP-ASN, 132203
 
 # > GeoIP
 geoip, cn, no-resolve
