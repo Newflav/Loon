@@ -43,6 +43,7 @@ domain-suffix, alicdn.com
 domain-suffix, aliyuncdn.com
 domain-suffix, tmall.com
 domain-suffix, taobao.com
+domain-suffix, alibaba.com
 domain-suffix, meituan.net
 domain-suffix, meituan.com
 domain-suffix, pinduoduo.net
