@@ -34,6 +34,7 @@ domain-suffix, qq.com
 domain-suffix, wechat.com
 domain-suffix, weixin.com
 domain-suffix, wechatpay.com
+domain-suffix, tenpay.com
 domain-suffix, gtimg.com
 domain-suffix, qiumibao.com
 domain-suffix, dongqiudi.com
@@ -59,7 +60,43 @@ domain-suffix, 126.net
 domain-suffix, 127.net
 domain-suffix, 163.com
 domain-suffix, cn
-IP-ASN, 132203
+
+# > IP-asn
+IP-ASN, 4134, no-resolve
+IP-ASN, 4809, no-resolve
+IP-ASN, 4811, no-resolve
+IP-ASN, 4812, no-resolve
+IP-ASN, 4813, no-resolve
+IP-ASN, 4816, no-resolve
+IP-ASN, 4835, no-resolve
+IP-ASN, 4837, no-resolve
+IP-ASN, 9394, no-resolve
+IP-ASN, 9808, no-resolve
+IP-ASN, 17816, no-resolve
+IP-ASN, 38365, no-resolve
+IP-ASN, 38340, no-resolve
+IP-ASN, 45090, no-resolve
+IP-ASN, 55967, no-resolve
+IP-ASN, 56040, no-resolve
+IP-ASN, 56041, no-resolve
+IP-ASN, 56042, no-resolve
+IP-ASN, 56044, no-resolve
+IP-ASN, 56046, no-resolve
+IP-ASN, 56047, no-resolve
+IP-ASN, 56048, no-resolve
+IP-ASN, 58517, no-resolve
+IP-ASN, 58543, no-resolve
+IP-ASN, 58518, no-resolve
+IP-ASN, 59037, no-resolve
+IP-ASN, 132203, no-resolve
+IP-ASN, 134763, no-resolve
+IP-ASN, 134764, no-resolve
+IP-ASN, 136958, no-resolve
+IP-ASN, 136959, no-resolve
+IP-ASN, 137539, no-resolve
+IP-ASN, 138421, no-resolve
+IP-ASN, 140053, no-resolve
+IP-ASN, 140056, no-resolve
 
 # > GeoIP
 geoip, cn, no-resolve
