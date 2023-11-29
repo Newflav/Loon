@@ -78,6 +78,7 @@ domain-suffix, gitlab.net
 domain-suffix, warp.plus
 domain-suffix, cloudflare.com
 domain-suffix, cloudflare.net
+domain-suffix, cloudflareclient.com
 
 # > Signal
 domain-suffix, signal.org
