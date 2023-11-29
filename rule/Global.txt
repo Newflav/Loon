@@ -58,10 +58,6 @@ domain-suffix, wikiversity.org
 domain-suffix, wikivoyage.org
 domain-suffix, wiktionary.org
 
-# > Yahoo
-domain-suffix, yahoo.com
-domain-keyword, yahoo
-
 # > Notion
 domain-suffix, notion-static.com
 domain-suffix, notion.com
@@ -97,6 +93,9 @@ domain-suffix, deepl.com
 # > Papago
 domain-suffix, naver.com
 domain-suffix, naver.net
+
+# > Yahoo
+domain-suffix, yahoo.com
 
 # > 代理工具
 domain-keyword, nsloon
