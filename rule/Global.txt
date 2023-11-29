@@ -74,6 +74,11 @@ domain-suffix, gitlab.io
 domain-suffix, gitlab.com
 domain-suffix, gitlab.net
 
+# > Cloudflare
+domain-suffix, warp.plus
+domain-suffix, cloudflare.com
+domain-suffix, cloudflare.net
+
 # > Signal
 domain-suffix, signal.org
 domain-suffix, hcaptcha.com
