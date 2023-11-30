@@ -14,13 +14,10 @@ domain-suffix, mzstatic.com
 
 # > NSFW
 domain-suffix, missav.com
-domain-suffix, mushroomtrack.com
-domain-suffix, akamai-content-network.com
-domain-suffix, supjav.com
-domain-suffix, techviba.com
-domain-suffix, javquick.com
-domain-suffix, pwaojdslfsa.buzz
 domain-suffix, helloavgirls.com
+domain-suffix, mushroomtrack.com
+domain-suffix, bestjavporn.com
+domain-suffix, bestjavcdn.com
 
 # > 其他分流修正
 domain, video.xhyded.com
