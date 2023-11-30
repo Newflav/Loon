@@ -33,9 +33,6 @@ domain-suffix, weixin.com
 domain-suffix, wechatpay.com
 domain-suffix, tenpay.com
 domain-suffix, gtimg.com
-domain-suffix, qiumibao.com
-domain-suffix, dongqiudi.com
-domain-suffix, qunliao.info
 domain-suffix, baidu.com
 domain-suffix, jd.com
 domain-suffix, 360buyimg.com
