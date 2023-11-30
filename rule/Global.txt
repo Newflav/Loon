@@ -14,9 +14,16 @@ domain-suffix, books.apple.com
 domain-suffix, tv.apple.com
 domain-suffix, apple.news
 
+# > AppleID
+domain, appleid.apple.com
+domain, appleid.cdn-apple.com
+domain, gsa.apple.com
+domain, idmsa.apple.com
+
 # > Testflight
 domain, beta.apple.com
 domain, testflight.apple.com
+domain-keyword, testflight
 
 # > Microsoft
 domain, assets1.xboxlive.com
@@ -29,12 +36,6 @@ domain-suffix, licdn.com
 domain-suffix, msn.com
 domain-suffix, skype.com
 domain-suffix, aka.ms
-domain-suffix, github.blog
-domain-suffix, github.com
-domain-suffix, github.io
-domain-suffix, githubassets.com
-domain-suffix, githubusercontent.com
-domain-keyword, github
 domain-suffix, streaming.mediaservices.windows.net
 domain-suffix, microsoft.com
 domain-suffix, office.com
@@ -65,6 +66,15 @@ domain-suffix, notion.new
 domain-suffix, notion.site
 domain-suffix, notion.so
 
+# > Github
+domain-suffix, github.blog
+domain-suffix, github.com
+domain-suffix, github.io
+domain-suffix, githubassets.com
+domain-suffix, githubapp.com
+domain-suffix, githubusercontent.com
+domain-keyword, github
+
 # > Gitlab
 domain-suffix, gitlab.io
 domain-suffix, gitlab.com
@@ -81,7 +91,9 @@ domain-suffix, signal.org
 domain-suffix, hcaptcha.com
 
 # > Proton
+domain-suffix, pm.me
 domain-suffix, proton.me
+domain-suffix, protonmail.com
 
 # > Tutanota
 domain-suffix, tuta.com
