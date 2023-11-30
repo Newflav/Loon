@@ -72,6 +72,7 @@ domain-suffix, github.com
 domain-suffix, github.io
 domain-suffix, githubassets.com
 domain-suffix, githubapp.com
+domain-suffix, rawgithub.com
 domain-suffix, githubusercontent.com
 domain-keyword, github
 
@@ -108,6 +109,9 @@ domain-suffix, naver.net
 
 # > Yahoo
 domain-suffix, yahoo.com
+
+# > duckduckgo
+domain-suffix, duckduckgo.com
 
 # > 代理工具
 domain-keyword, nsloon
