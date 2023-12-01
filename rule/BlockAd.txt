@@ -1,25 +1,22 @@
 # > Apple
 domain, ocsp.apple.com
-domain, api-adservices.apple.com
 domain, advertising.apple.com
+domain, api-adservices.apple.com
 domain, apple.comscoreresearch.com
 domain, iadcontent.apple.com
 domain, iadmoo.apple.com
 domain, iadworkbench.apple.com
-domain, launch.apple.com
 domain, qwapi.apple.com
-domain, securemetrics.apple.com
-domain, webproxy-advp.iad-apple.com
-domain, webproxy-advp.iad-apple.com.akadns.net
+domain, launch.apple.com
 domain-suffix, advp.apple.com
+domain-suffix, iad-apple.com
 
 # > 高德地图
 domain, awaken.amap.com
 domain, free-aos-cdn-image.amap.com
 
 # > 建设银行
-domain, adv.ccb.com
-domain, imageadv.ccb.com
+domain-keyword, adv.ccb.com
 
 # > 美团
 domain, al-log.d.meituan.net
@@ -29,32 +26,28 @@ domain, metrics-picture.d.meituan.net
 domain, route-stats.d.meituan.net
 
 # > 腾讯
-domain, qzs.qq.com
 domain, tpns.qq.com
 domain, info4.video.qq.com
 domain, info6.video.qq.com
-domain, wxsmsdy.video.qq.com
 domain, ios.video.mpush.qq.com
 domain, vv6.video.qq.com
-domain, ipv4.gdt.qq.com
-domain, qqadapt.qpic.cn
-ip-cidr, 47.110.187.87/32, no-resolve
+ip-cidr, 47.110.187.87/32
 
 # > 知乎
 domain, appcloud.zhihu.com
 domain, crash2.zhihu.com
 domain, mqtt.zhihu.com
 domain, sugar.zhihu.com
-ip-cidr, 103.41.167.237/32, no-resolve
-ip-cidr, 118.89.204.198/32, no-resolve
-ip-cidr6, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128, no-resolve
+ip-cidr, 103.41.167.237/32
+ip-cidr, 118.89.204.198/32
+ip-cidr6, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 
 # > 字节跳动
 domain, ad.zijieapi.com
 
 # > 阻止反诈收集信息
 domain-suffix, gjfzpt.cn
-ip-cidr, 219.143.187.136/32, no-resolve
+ip-cidr, 219.143.187.136/32
 
 # > 百度贴吧屏蔽域名dns查询
-ip-cidr, 180.76.76.200/32, no-resolve
+ip-cidr, 180.76.76.200/32
