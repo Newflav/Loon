@@ -31,6 +31,8 @@ domain, assets2.xboxlive.com
 domain, az416426.vo.msecnd.net
 domain, az668014.vo.msecnd.net
 domain-suffix, bing.com
+domain-suffix, bing.net
+domain-suffix, bingapis.com
 domain-suffix, linkedin.com
 domain-suffix, licdn.com
 domain-suffix, msn.com
@@ -44,8 +46,6 @@ domain-suffix, outlook.com
 domain-suffix, live.com
 domain-suffix, appcenter.ms
 domain-suffix, msauth.net
-domain-suffix, bing.net
-domain-suffix, bingapis.com
 domain-suffix, microsoftonline.com
 
 # > Wikimedia Foundation
