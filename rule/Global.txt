@@ -43,6 +43,10 @@ domain-suffix, office365.com
 domain-suffix, outlook.com
 domain-suffix, live.com
 domain-suffix, appcenter.ms
+domain-suffix, msauth.net
+domain-suffix, bing.net
+domain-suffix, bingapis.com
+domain-suffix, microsoftonline.com
 
 # > Wikimedia Foundation
 domain-suffix, mediawiki.org
