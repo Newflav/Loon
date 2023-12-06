@@ -122,4 +122,5 @@ domain-keyword, nsloon
 domain-keyword, quantumult
 
 # > 其他
+domain-suffix, swiftgram.app
 domain-suffix, mil
