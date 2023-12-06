@@ -114,6 +114,13 @@ domain-suffix, naver.net
 # > Yahoo
 domain-suffix, yahoo.com
 
+# > mail
+domain-suffix, mail.com, proxy
+domain, img.ui-portal.de, proxy
+domain, js.ui-portal.de, proxy
+domain, s.uicdn.com, proxy
+domain, cdn.cookielaw.org, proxy
+
 # > duckduckgo
 domain-suffix, duckduckgo.com
 
