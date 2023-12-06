@@ -120,7 +120,7 @@ domain-suffix, duckduckgo.com
 # > 代理工具
 domain-keyword, nsloon
 domain-keyword, quantumult
+domain-keyword, swiftgram
 
 # > 其他
-domain-suffix, swiftgram.app
 domain-suffix, mil
