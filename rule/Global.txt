@@ -114,14 +114,14 @@ domain-suffix, naver.net
 # > Yahoo
 domain-suffix, yahoo.com
 
-# > mail
-domain-suffix, mail.com, proxy
-domain, img.ui-portal.de, proxy
-domain, js.ui-portal.de, proxy
-domain, s.uicdn.com, proxy
-domain, cdn.cookielaw.org, proxy
+# > Mail
+domain-suffix, mail.com
+domain, img.ui-portal.de
+domain, js.ui-portal.de
+domain, s.uicdn.com
+domain, cdn.cookielaw.org
 
-# > duckduckgo
+# > Duckduckgo
 domain-suffix, duckduckgo.com
 
 # > 代理工具
