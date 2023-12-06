@@ -111,15 +111,15 @@ domain-suffix, deepl.com
 domain-suffix, naver.com
 domain-suffix, naver.net
 
-# > Yahoo
-domain-suffix, yahoo.com
-
 # > Mail
 domain-suffix, mail.com
 domain, img.ui-portal.de
 domain, js.ui-portal.de
 domain, s.uicdn.com
 domain, cdn.cookielaw.org
+
+# > Yahoo
+domain-suffix, yahoo.com
 
 # > Duckduckgo
 domain-suffix, duckduckgo.com
