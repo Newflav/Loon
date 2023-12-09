@@ -119,6 +119,7 @@ domain, s.uicdn.com
 domain, cdn.cookielaw.org
 
 # > Yahoo
+domain-suffix, oath.com
 domain-suffix, yahoo.com
 
 # > Duckduckgo
