@@ -1,5 +1,4 @@
 # > Apple
-domain, ocsp.apple.com
 domain, advertising.apple.com
 domain, api-adservices.apple.com
 domain, apple.comscoreresearch.com
