@@ -113,11 +113,9 @@ domain-suffix, naver.net
 
 # > Mail
 domain-suffix, mail.com
-domain, img.ui-portal.de
-domain, js.ui-portal.de
+domain, ui-portal.de
 domain, s.uicdn.com
 domain, cdn.cookielaw.org
-domain, wa.ui-portal.de
 
 # > Yahoo
 domain-suffix, oath.com
