@@ -9,3 +9,6 @@ ip-cidr, 104.244.53.0/22, no-resolve
 ip-cidr, 198.24.161.0/22, no-resolve
 ip-cidr, 205.164.56.0/22, no-resolve
 IP-ASN, 18779, proxy, no-resolve
+
+# > TextFree
+domain-suffix, pinger.com
