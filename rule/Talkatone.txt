@@ -3,6 +3,7 @@ domain, ocsp.sectigo.com
 domain, ocsp.r2m01.amazontrust.com
 domain-suffix, tktn.be
 domain-suffix, mobilefuse.com
+domain-suffix, talkatone.com
 domain-keyword, tktn
 ip-cidr, 69.46.75.0/22, no-resolve
 ip-cidr, 131.153.7.0/22, no-resolve
