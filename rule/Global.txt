@@ -123,7 +123,7 @@ domain-suffix, textnow.com
 domain-suffix, ironsrc.mobi
 domain-suffix, ssacdn.com
 domain-suffix, emb-api.com
-ip-cidr, 3.226.103.0/22
+ip-cidr, 3.226.103.0/22, no-resolve
 
 # > Yahoo
 domain-suffix, oath.com
