@@ -56,4 +56,5 @@ domain, a1.tktn.be
 domain-suffix, adxinspidsp.com
 domain, got.pubnative.net
 domain, mfx.mobilefuse.com
+domain, cdn.mobilefuse.com
 domain, hermes-us.inspidspad.com
