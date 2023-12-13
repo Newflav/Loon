@@ -52,4 +52,5 @@ ip-cidr, 219.143.187.136/32
 ip-cidr, 180.76.76.200/32
 
 # > Talkatone
+domain, a1.tktn.be
 domain-suffix, adxinspidsp.com
