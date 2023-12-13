@@ -125,6 +125,9 @@ domain-suffix, ssacdn.com
 domain-suffix, emb-api.com
 IP-ASN, 13335, no-resolve
 
+# > TextFree
+domain-suffix, pinger.com
+
 # > Yahoo
 domain-suffix, oath.com
 domain-suffix, yahoo.com
