@@ -58,3 +58,13 @@ domain, got.pubnative.net
 domain, mfx.mobilefuse.com
 domain, cdn.mobilefuse.com
 domain, hermes-us.inspidspad.com
+domain, s3.amazonaws.com
+
+# > 其他
+domain, cf-ads.pinger.com
+domain, us.a.iteleserve.com
+domain, notify.rtbuniverse.com
+domain-suffix, pubnative.net
+domain-suffix, vrtcal.com
+domain-suffix, vungle.com
+domain-suffix, amazon-adsystem.com
