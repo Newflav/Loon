@@ -1,5 +1,5 @@
 # > Twitter
-domain-suffix, albtls.t.co
+domain, albtls.t.co
 domain-suffix, ads-twitter.com
 domain-suffix, cms-twdigitalassets.com
 domain-suffix, periscope.tv
