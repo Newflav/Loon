@@ -41,6 +41,7 @@ domain-suffix, aka.ms
 domain-suffix, streaming.mediaservices.windows.net
 domain-suffix, microsoft.com
 domain-suffix, office.com
+domain-suffix, office.net
 domain-suffix, office365.com
 domain-suffix, outlook.com
 domain-suffix, live.com
