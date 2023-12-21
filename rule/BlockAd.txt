@@ -10,6 +10,12 @@ domain, launch.apple.com
 domain-suffix, advp.apple.com
 domain-suffix, iad-apple.com
 
+# 阿里巴巴
+domain, ossgw.alicdn.com
+domain, ems.youku.com
+domain, hudong.alicdn.com
+domain-suffix, ut.taobao.com
+
 # > 滴滴出行
 domain, gwp.xiaojukeji.com
 
@@ -26,6 +32,7 @@ domain, babel-statistics-android.d.meituan.net
 domain, maplocatesdksnapshot.d.meituan.net
 domain, metrics-picture.d.meituan.net
 domain, route-stats.d.meituan.net
+domain, open.kuaishouzt.com
 
 # > 腾讯
 domain, tpns.qq.com
