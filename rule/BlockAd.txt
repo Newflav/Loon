@@ -19,10 +19,6 @@ domain-suffix, ut.taobao.com
 # > 滴滴出行
 domain, gwp.xiaojukeji.com
 
-# > 高德地图
-domain, awaken.amap.com
-domain, free-aos-cdn-image.amap.com
-
 # > 建设银行
 domain-keyword, adv.ccb.com
 
