@@ -14,6 +14,7 @@ ip-cidr6, 2a01:b740:a42::/48, no-resolve
 
 # > NSFW
 domain-suffix, helloavgirls.com
+domain-suffix, video-delivery.net
 domain-suffix, mushroomtrack.com
 domain-suffix, bestjavporn.com
 domain-suffix, bestjavcdn.com
