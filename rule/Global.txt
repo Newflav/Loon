@@ -48,6 +48,8 @@ domain-suffix, live.com
 domain-suffix, appcenter.ms
 domain-suffix, msauth.net
 domain-suffix, microsoftonline.com
+domain-suffix, microsoftapp.net
+domain-suffix, microsoft-falcon.io
 
 # > Wikimedia
 domain-suffix, mediawiki.org
