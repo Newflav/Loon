@@ -1,76 +1,76 @@
 # > Apple
-domain, advertising.apple.com
-domain, api-adservices.apple.com
-domain, apple.comscoreresearch.com
-domain, iadcontent.apple.com
-domain, iadmoo.apple.com
-domain, iadworkbench.apple.com
-domain, qwapi.apple.com
-domain, launch.apple.com
-domain-suffix, advp.apple.com
-domain-suffix, iad-apple.com
+DOMAIN, advertising.apple.com
+DOMAIN, api-adservices.apple.com
+DOMAIN, apple.comscoreresearch.com
+DOMAIN, iadcontent.apple.com
+DOMAIN, iadmoo.apple.com
+DOMAIN, iadworkbench.apple.com
+DOMAIN, qwapi.apple.com
+DOMAIN, launch.apple.com
+DOMAIN-SUFFIX, advp.apple.com
+DOMAIN-SUFFIX, iad-apple.com
 
 # 阿里巴巴
-domain, ossgw.alicdn.com
-domain, ems.youku.com
-domain, hudong.alicdn.com
-domain-suffix, ut.taobao.com
+DOMAIN, ossgw.alicdn.com
+DOMAIN, ems.youku.com
+DOMAIN, hudong.alicdn.com
+DOMAIN-SUFFIX, ut.taobao.com
 
 # > 滴滴出行
-domain, gwp.xiaojukeji.com
+DOMAIN, gwp.xiaojukeji.com
 
 # > 建设银行
-domain-keyword, adv.ccb.com
+DOMAIN-KEYWORD, adv.ccb.com
 
 # > 美团
-domain, al-log.d.meituan.net
-domain, babel-statistics-android.d.meituan.net
-domain, maplocatesdksnapshot.d.meituan.net
-domain, metrics-picture.d.meituan.net
-domain, route-stats.d.meituan.net
-domain, open.kuaishouzt.com
+DOMAIN, al-log.d.meituan.net
+DOMAIN, babel-statistics-android.d.meituan.net
+DOMAIN, maplocatesdksnapshot.d.meituan.net
+DOMAIN, metrics-picture.d.meituan.net
+DOMAIN, route-stats.d.meituan.net
+DOMAIN, open.kuaishouzt.com
 
 # > 腾讯
-domain, tpns.qq.com
-domain, info4.video.qq.com
-domain, info6.video.qq.com
-domain, ios.video.mpush.qq.com
-domain, vv6.video.qq.com
-ip-cidr, 47.110.187.87/32
+DOMAIN, tpns.qq.com
+DOMAIN, info4.video.qq.com
+DOMAIN, info6.video.qq.com
+DOMAIN, ios.video.mpush.qq.com
+DOMAIN, vv6.video.qq.com
+IP-CIDR, 47.110.187.87/32
 
 # > 知乎
-domain, appcloud.zhihu.com
-domain, crash2.zhihu.com
-domain, mqtt.zhihu.com
-domain, sugar.zhihu.com
-ip-cidr, 103.41.167.237/32
-ip-cidr, 118.89.204.198/32
-ip-cidr6, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128
+DOMAIN, appcloud.zhihu.com
+DOMAIN, crash2.zhihu.com
+DOMAIN, mqtt.zhihu.com
+DOMAIN, sugar.zhihu.com
+IP-CIDR, 103.41.167.237/32
+IP-CIDR, 118.89.204.198/32
+IP-CIDR6, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 
 # > 字节跳动
-domain, ad.zijieapi.com
+DOMAIN, ad.zijieapi.com
 
 # > 阻止反诈收集信息
-domain-suffix, gjfzpt.cn
-ip-cidr, 219.143.187.136/32
+DOMAIN-SUFFIX, gjfzpt.cn
+IP-CIDR, 219.143.187.136/32
 
 # > 百度贴吧屏蔽域名dns查询
-ip-cidr, 180.76.76.200/32
+IP-CIDR, 180.76.76.200/32
 
 # > Talkatone
-domain, a1.tktn.be
-domain-suffix, adxinspidsp.com
-domain, got.pubnative.net
-domain, mfx.mobilefuse.com
-domain, cdn.mobilefuse.com
-domain, hermes-us.inspidspad.com
-domain, s3.amazonaws.com
+DOMAIN, a1.tktn.be
+DOMAIN-SUFFIX, adxinspidsp.com
+DOMAIN, got.pubnative.net
+DOMAIN, mfx.mobilefuse.com
+DOMAIN, cdn.mobilefuse.com
+DOMAIN, hermes-us.inspidspad.com
+DOMAIN, s3.amazonaws.com
 
 # > 其他
-domain, cf-ads.pinger.com
-domain, us.a.iteleserve.com
-domain, notify.rtbuniverse.com
-domain-suffix, pubnative.net
-domain-suffix, vrtcal.com
-domain-suffix, vungle.com
-domain-suffix, amazon-adsystem.com
+DOMAIN, cf-ads.pinger.com
+DOMAIN, us.a.iteleserve.com
+DOMAIN, notify.rtbuniverse.com
+DOMAIN-SUFFIX, pubnative.net
+DOMAIN-SUFFIX, vrtcal.com
+DOMAIN-SUFFIX, vungle.com
+DOMAIN-SUFFIX, amazon-adsystem.com
