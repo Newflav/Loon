@@ -1,2 +1,67 @@
-# > GeoIP
-GEOIP, cn, DIRECT
+# > Local
+IP-CIDR, 10.0.0.0/8, no-resolve
+IP-CIDR, 100.64.0.0/10, no-resolve
+IP-CIDR, 172.16.0.0/12, no-resolve
+IP-CIDR, 192.0.0.0/24, no-resolve
+IP-CIDR, 192.168.0.0/16, no-resolve
+IP-CIDR, 198.18.0.0/15, no-resolve
+IP-CIDR6, ::1/128, no-resolve
+IP-CIDR6, fc00::/7, no-resolve
+IP-CIDR6, fe80::/10, no-resolve
+
+# > Apple
+DOMAIN-SUFFIX, apple.com
+DOMAIN-SUFFIX, icloud.com
+DOMAIN-SUFFIX, mzstatic.com
+IP-CIDR, 17.249.0.0/16, no-resolve
+IP-CIDR, 17.252.0.0/16, no-resolve
+IP-CIDR, 17.57.144.0/22, no-resolve
+IP-CIDR, 17.188.128.0/18, no-resolve
+IP-CIDR, 17.188.20.0/23, no-resolve
+IP-CIDR6, 2620:149:a44::/48, no-resolve
+IP-CIDR6, 2403:300:a42::/48, no-resolve
+IP-CIDR6, 2403:300:a51::/48, no-resolve
+IP-CIDR6, 2a01:b740:a42::/48, no-resolve
+
+# > NSFW
+DOMAIN-SUFFIX, helloavgirls.com
+DOMAIN-SUFFIX, video-delivery.net
+DOMAIN-SUFFIX, mushroomtrack.com
+DOMAIN-SUFFIX, bestjavporn.com
+DOMAIN-SUFFIX, bestjavcdn.com
+
+# > 其他分流修正
+DOMAIN, video.xhyded.com
+DOMAIN, pull-gaia-bac.soucan.so
+DOMAIN-SUFFIX, b7k.cc
+DOMAIN-SUFFIX, tpian.xyz
+DOMAIN-SUFFIX, livemi.live
+DOMAIN-SUFFIX, wtmdjxkq.com
+DOMAIN-SUFFIX, servicewechat.com
+DOMAIN-SUFFIX, qq.com
+DOMAIN-SUFFIX, wechat.com
+DOMAIN-SUFFIX, weixin.com
+DOMAIN-SUFFIX, wechatpay.com
+DOMAIN-SUFFIX, tenpay.com
+DOMAIN-SUFFIX, gtimg.com
+DOMAIN-SUFFIX, baidu.com
+DOMAIN-SUFFIX, jd.com
+DOMAIN-SUFFIX, 360buyimg.com
+DOMAIN-SUFFIX, alipay.com
+DOMAIN-SUFFIX, aliyun.com
+DOMAIN-SUFFIX, alicdn.com
+DOMAIN-SUFFIX, aliyuncdn.com
+DOMAIN-SUFFIX, tmall.com
+DOMAIN-SUFFIX, taobao.com
+DOMAIN-SUFFIX, alibaba.com
+DOMAIN-SUFFIX, meituan.net
+DOMAIN-SUFFIX, meituan.com
+DOMAIN-SUFFIX, pinduoduo.net
+DOMAIN-SUFFIX, pinduoduo.com
+DOMAIN-SUFFIX, pddpic.com
+DOMAIN-SUFFIX, amap.com
+DOMAIN-SUFFIX, netease.com
+DOMAIN-SUFFIX, 126.net
+DOMAIN-SUFFIX, 127.net
+DOMAIN-SUFFIX, 163.com
+DOMAIN-SUFFIX, cn
