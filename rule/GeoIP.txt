@@ -1,2 +1,0 @@
-# > GeoIP
-GEOIP, CN, no-resolve
