@@ -67,4 +67,4 @@ DOMAIN-SUFFIX, 163.com
 DOMAIN-SUFFIX, cn
 
 # > GeoIP
-GEOIP, CN, no-resolve
+GEOIP, cn, DIRECT, no-resolve
