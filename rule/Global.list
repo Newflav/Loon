@@ -1,4 +1,4 @@
-# ---(Apple)---
+# > Apple
 DOMAIN, amp-api.podcasts.apple.com
 DOMAIN, beta.music.apple.com
 DOMAIN, books.itunes.apple.com
@@ -74,7 +74,7 @@ DOMAIN-SUFFIX, notion.new
 DOMAIN-SUFFIX, notion.site
 DOMAIN-SUFFIX, notion.so
 
-# > Github
+# > GitHub
 DOMAIN-SUFFIX, github.blog
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, github.io
