@@ -59,12 +59,15 @@ IP-CIDR, 180.76.76.200/32, no-resolve
 
 # > Talkatone
 DOMAIN, a1.tktn.be
-DOMAIN-SUFFIX, adxinspidsp.com
 DOMAIN, got.pubnative.net
 DOMAIN, mfx.mobilefuse.com
 DOMAIN, cdn.mobilefuse.com
 DOMAIN, hermes-us.inspidspad.com
 DOMAIN, s3.amazonaws.com
+DOMAIN, cfg.talkatone.com
+DOMAIN, d.tktn.be
+DOMAIN-SUFFIX, tappx.com
+DOMAIN-SUFFIX, adxinspidsp.com
 
 # > 其他
 DOMAIN, cf-ads.pinger.com
