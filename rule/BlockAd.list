@@ -20,7 +20,7 @@ DOMAIN-SUFFIX, ut.taobao.com
 DOMAIN, gwp.xiaojukeji.com
 
 # > 建设银行
-DOMAIN-KEYWORD, adv.ccb.com
+DOMAIN, adv.ccb.com
 
 # > 美团
 DOMAIN, al-log.d.meituan.net
