@@ -17,5 +17,9 @@ domain-suffix, oculus.com
 domain-suffix, oculuscdn.com
 domain-suffix, readyatdawn.com
 domain-suffix, rocksdb.org
+domain-suffix, whatsapp.net
+domain-suffix, whatsapp.com
 domain-suffix, facebook.com
+domain-suffix, meta.com
 domain-keyword, .facebook.
+ip-cidr, 157.240.0.0/17
