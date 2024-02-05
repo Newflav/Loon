@@ -51,6 +51,7 @@ DOMAIN-SUFFIX, microsoftonline.com
 DOMAIN-SUFFIX, microsoftapp.net
 DOMAIN-SUFFIX, microsoft-falcon.io
 DOMAIN-SUFFIX, microsofttranslator.com
+DOMAIN-SUFFIX, api.cortana.ai
 
 # > Wikimedia
 DOMAIN-SUFFIX, mediawiki.org
