@@ -99,6 +99,7 @@ DOMAIN-SUFFIX, cloudflareclient.com
 # > Signal
 DOMAIN-SUFFIX, signal.org
 DOMAIN-SUFFIX, hcaptcha.com
+DOMAIN-SUFFIX, signalcaptchas.org
 
 # > Proton
 DOMAIN-SUFFIX, pm.me
