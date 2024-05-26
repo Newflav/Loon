@@ -1,0 +1,85 @@
+# > Apple
+DOMAIN, advertising.apple.com, reject
+DOMAIN, api-adservices.apple.com, reject
+DOMAIN, apple.comscoreresearch.com, reject
+DOMAIN, iadcontent.apple.com, reject
+DOMAIN, iadmoo.apple.com, reject
+DOMAIN, iadworkbench.apple.com, reject
+DOMAIN, qwapi.apple.com, reject
+DOMAIN, launch.apple.com, reject
+DOMAIN-SUFFIX, advp.apple.com, reject
+DOMAIN-SUFFIX, iad-apple.com, reject
+
+# 阿里巴巴
+DOMAIN, ossgw.alicdn.com, reject
+DOMAIN, ems.youku.com, reject
+DOMAIN, hudong.alicdn.com, reject
+DOMAIN-SUFFIX, ut.taobao.com, reject
+
+# > 滴滴出行
+DOMAIN, gwp.xiaojukeji.com, reject
+
+# > 建设银行
+DOMAIN, adv.ccb.com, reject
+
+# > 美团
+DOMAIN, al-log.d.meituan.net, reject
+DOMAIN, babel-statistics-android.d.meituan.net, reject
+DOMAIN, maplocatesdksnapshot.d.meituan.net, reject
+DOMAIN, metrics-picture.d.meituan.net, reject
+DOMAIN, route-stats.d.meituan.net, reject
+DOMAIN, open.kuaishouzt.com, reject
+
+# > 腾讯
+DOMAIN, tpns.qq.com, reject
+DOMAIN, info4.video.qq.com, reject
+DOMAIN, info6.video.qq.com, reject
+DOMAIN, ios.video.mpush.qq.com, reject
+DOMAIN, vv6.video.qq.com, reject
+IP-CIDR, 47.110.187.87/32, reject
+
+# > 知乎
+DOMAIN, appcloud.zhihu.com, reject
+DOMAIN, crash2.zhihu.com, reject
+DOMAIN, mqtt.zhihu.com, reject
+DOMAIN, sugar.zhihu.com, reject
+IP-CIDR, 103.41.167.237/32, reject
+IP-CIDR, 118.89.204.198/32, reject
+IP-CIDR6, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128, reject
+
+# > 字节跳动
+DOMAIN, ad.zijieapi.com, reject
+
+# > 阻止反诈收集信息
+DOMAIN-SUFFIX, gjfzpt.cn, reject
+IP-CIDR, 219.143.187.136/32, reject
+
+# > 百度贴吧屏蔽域名dns查询
+IP-CIDR, 180.76.76.200/32, reject
+
+# > Talkatone
+DOMAIN, a1.tktn.be, reject
+DOMAIN, cdn.mobilefuse.com, reject
+DOMAIN, got.pubnative.net, reject
+DOMAIN, mfx.mobilefuse.com, reject
+DOMAIN, hermes-us.inspidspad.com, reject
+DOMAIN, s3.amazonaws.com, reject
+DOMAIN, cfg.talkatone.com, reject
+DOMAIN, d.tktn.be, reject
+DOMAIN, imgx.jampp.com, reject
+DOMAIN-SUFFIX, tappx.com, reject
+DOMAIN-SUFFIX, adxinspidsp.com, reject
+
+# > 京东
+DOMAIN, dns.jd.com, reject
+IP-CIDR, 101.124.19.122/32, reject
+IP-CIDR6, 2402:db40:5100:1011::5/128, reject
+
+# > 其他
+DOMAIN, cf-ads.pinger.com, reject
+DOMAIN, us.a.iteleserve.com, reject
+DOMAIN, notify.rtbuniverse.com, reject
+DOMAIN-SUFFIX, pubnative.net, reject
+DOMAIN-SUFFIX, vrtcal.com, reject
+DOMAIN-SUFFIX, vungle.com, reject
+DOMAIN-SUFFIX, amazon-adsystem.com, reject
