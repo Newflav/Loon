@@ -30,6 +30,11 @@ DOMAIN, metrics-picture.d.meituan.net
 DOMAIN, route-stats.d.meituan.net
 DOMAIN, open.kuaishouzt.com
 
+# > 京东
+host, dns.jd.com, reject
+ip-cidr, 101.124.19.122/32, reject
+ip6-cidr, 2402:db40:5100:1011::5/128, reject
+
 # > 腾讯
 DOMAIN, tpns.qq.com
 DOMAIN, info4.video.qq.com
