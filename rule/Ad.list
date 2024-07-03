@@ -69,6 +69,7 @@ DOMAIN, d.tktn.be, reject
 DOMAIN, imgx.jampp.com, reject
 DOMAIN-SUFFIX, tappx.com, reject
 DOMAIN-SUFFIX, adxinspidsp.com, reject
+DOMAIN-SUFFIX, inhousedsp.com, reject
 
 # > 京东
 DOMAIN, dns.jd.com, reject
