@@ -22,4 +22,3 @@ domain-suffix, whatsapp.com
 domain-suffix, meta.com
 domain-suffix, facebook.com
 domain-keyword, .facebook.
-ip-cidr, 157.240.0.0/17
