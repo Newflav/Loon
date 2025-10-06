@@ -1,6 +1,8 @@
 # OpenAI ChatGPT
-AND, ((DOMAIN-KEYWORD, chatgpt-async-webps-prod-), (DOMAIN-SUFFIX, webpubsub.azure.com))
-AND, ((DOMAIN-KEYWORD, openaicom-api-), (DOMAIN-SUFFIX, azurefd.net))
+DOMAIN-KEYWORD, chatgpt-async-webps-prod-
+DOMAIN-SUFFIX, webpubsub.azure.com
+DOMAIN-KEYWORD, openaicom-api-
+DOMAIN-SUFFIX, azurefd.net
 DOMAIN, chatgpt.livekit.cloud
 DOMAIN, host.livekit.cloud
 DOMAIN-SUFFIX, turn.livekit.cloud
