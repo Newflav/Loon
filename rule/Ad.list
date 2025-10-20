@@ -1,5 +1,4 @@
-# > Apple
-# 安全浏览限制解除
+# > Apple安全浏览限制解除
 DOMAIN, lookup.api.bsb.baidu.com
 DOMAIN, proxy.safebrowsing.apple
 DOMAIN, safebrowsing.g.applimg.com
