@@ -38,13 +38,13 @@ DOMAIN, ios.video.mpush.qq.com
 DOMAIN, vv6.video.qq.com
 IP-CIDR, 47.110.187.87/32,  no-resolve
 DOMAIN, dns.weixin.qq.com
-IP-CIDR, 42.81.232.18/32, no-resolve
-IP-CIDR, 42.187.182.106/32, no-resolve
-IP-CIDR, 42.187.182.123/32, no-resolve
-IP-CIDR, 42.187.184.154/32, no-resolve
-IP-CIDR, 123.151.54.50/32, no-resolve
-IP-CIDR6, 2402:4e00:1900:1700:0:9554:1ad9:c3a/128, no-resolve
-IP-CIDR6, 240e:928:1400:10::25/128, no-resolve
+IP-CIDR, 42.81.232.18/32
+IP-CIDR, 42.187.182.106/32
+IP-CIDR, 42.187.182.123/32
+IP-CIDR, 42.187.184.154/32
+IP-CIDR, 123.151.54.50/32
+IP-CIDR6, 2402:4e00:1900:1700:0:9554:1ad9:c3a/128
+IP-CIDR6, 240e:928:1400:10::25/128
 
 # > 知乎
 USER-AGENT, AVOS*
@@ -54,20 +54,20 @@ DOMAIN, crash2.zhihu.com
 DOMAIN, mqtt.zhihu.com
 DOMAIN, sugar.zhihu.com
 DOMAIN, zxid-m.mobileservice.cn
-IP-CIDR, 103.41.167.237/32, no-resolve
-IP-CIDR, 118.89.204.198/32, no-resolve
-IP-CIDR, 182.61.194.7/32, no-resolve
-IP-CIDR6, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128, no-resolve
+IP-CIDR, 103.41.167.237/32
+IP-CIDR, 118.89.204.198/32
+IP-CIDR, 182.61.194.7/32
+IP-CIDR6, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 
 # > 字节跳动
 DOMAIN, ad.zijieapi.com
 
 # > 阻止反诈收集信息
 DOMAIN-SUFFIX, gjfzpt.cn
-IP-CIDR, 219.143.187.136/32, no-resolve
+IP-CIDR, 219.143.187.136/32
 
 # > 百度贴吧屏蔽域名dns查询
-IP-CIDR, 180.76.76.200/32, no-resolve
+IP-CIDR, 180.76.76.200/32
 
 # > Talkatone
 DOMAIN, a1.tktn.be
@@ -84,8 +84,8 @@ DOMAIN-SUFFIX, adxinspidsp.com
 DOMAIN-SUFFIX, inhousedsp.com
 
 # > 京东
-IP-CIDR, 101.124.19.122/32, no-resolve
-IP-CIDR6, 2402:db40:5100:1011::5/128, no-resolve
+IP-CIDR, 101.124.19.122/32
+IP-CIDR6, 2402:db40:5100:1011::5/128
 
 # > 其他
 DOMAIN, cf-ads.pinger.com
