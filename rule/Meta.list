@@ -22,4 +22,4 @@ DOMAIN-SUFFIX, whatsapp.com
 DOMAIN-SUFFIX, meta.com
 DOMAIN-SUFFIX, facebook.com
 DOMAIN-KEYWORD, .facebook.
-IP-CIDR, 157.240.0.0/17
+IP-CIDR, 157.240.0.0/17, no-resolve
