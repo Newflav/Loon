@@ -42,8 +42,8 @@ IP-CIDR, 219.143.187.136/32, no-resolve
 
 # > Talkatone
 DOMAIN, a1.tktn.be
-DOMAIN, hermes-us.inspidspad.com
-DOMAIN, cfg.talkatone.com
 DOMAIN, d.tktn.be
+DOMAIN, cfg.talkatone.com
+DOMAIN, hermes-us.inspidspad.com
 DOMAIN-SUFFIX, adxinspidsp.com
 DOMAIN-SUFFIX, inhousedsp.com
