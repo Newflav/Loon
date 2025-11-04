@@ -22,22 +22,7 @@ IP-CIDR6, 2403:300:a42::/48, no-resolve
 IP-CIDR6, 2403:300:a51::/48, no-resolve
 IP-CIDR6, 2a01:b740:a42::/48, no-resolve
 
-# > NSFW
-DOMAIN-SUFFIX, helloavgirls.com
-DOMAIN-SUFFIX, video-delivery.net
-DOMAIN-SUFFIX, mushroomtrack.com
-DOMAIN-SUFFIX, bestjavporn.com
-DOMAIN-SUFFIX, bestjavcdn.com
-
 # > 其他分流修正
-DOMAIN, video.xhyded.com
-DOMAIN, pull-gaia-bac.soucan.so
-DOMAIN-SUFFIX, b7k.cc
-DOMAIN-SUFFIX, m9k.cc
-DOMAIN-SUFFIX, olelive.com
-DOMAIN-SUFFIX, tpian.xyz
-DOMAIN-SUFFIX, livemi.live
-DOMAIN-SUFFIX, wtmdjxkq.com
 DOMAIN-SUFFIX, servicewechat.com
 DOMAIN-SUFFIX, qq.com
 DOMAIN-SUFFIX, wechat.com
