@@ -29,6 +29,7 @@ IP-CIDR6, 240e:928:1400:10::25/128, no-resolve
 # > 知乎
 USER-AGENT, AVOS*
 DOMAIN, appcloud.zhihu.com
+DOMAIN, zxid-m.mobileservice.cn
 IP-CIDR, 103.41.167.237/32,REJECT, no-resolve
 IP-CIDR, 118.89.204.198/32, no-resolve
 IP-CIDR, 182.61.194.7/32, no-resolve
