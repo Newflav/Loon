@@ -37,11 +37,3 @@ IP-CIDR6, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128, no-resolve
 # > 阻止反诈收集信息
 DOMAIN-SUFFIX, gjfzpt.cn
 IP-CIDR, 219.143.187.136/32, no-resolve
-
-# > Talkatone
-DOMAIN, a1.tktn.be
-DOMAIN, d.tktn.be
-DOMAIN, cfg.talkatone.com
-DOMAIN, hermes-us.inspidspad.com
-DOMAIN-SUFFIX, adxinspidsp.com
-DOMAIN-SUFFIX, inhousedsp.com
