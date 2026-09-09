@@ -17,6 +17,7 @@ IP-CIDR, 101.124.19.122/32, no-resolve
 IP-CIDR6, 2402:db40:5100:1011::5/128, no-resolve
 
 # > 腾讯
+DOMAIN-SUFFIX, wxs.qq.com
 IP-CIDR, 47.110.187.87/32, no-resolve
 IP-CIDR, 42.81.232.18/32, no-resolve
 IP-CIDR, 42.187.182.106/32, no-resolve
