@@ -23,7 +23,7 @@ DOMAIN, shark-dp.meituan.com
 DOMAIN, shark-ps.meituan.com
 DOMAIN, shark-wm.sankuai.com
 DOMAIN, shark.dianping.com
-DOMAIN-wildcard, mquic-*.meituan.com
+DOMAIN-WILDCARD, mquic-*.meituan.com
 DOMAIN, httpdnsmultiapi.meituan.com
 DOMAIN, httpdnsmultiapivip.meituan.com
 DOMAIN, httpdns.meituan.com
