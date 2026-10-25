@@ -16,6 +16,54 @@ IP-CIDR, 180.76.76.200/32, no-resolve
 IP-CIDR, 101.124.19.122/32, no-resolve
 IP-CIDR6, 2402:db40:5100:1011::5/128, no-resolve
 
+# > 美团
+DOMAIN, shark-mt.meituan.com
+DOMAIN, shark-default.meituan.com
+DOMAIN, shark-dp.meituan.com
+DOMAIN, shark-ps.meituan.com
+DOMAIN, shark-wm.sankuai.com
+DOMAIN, shark.dianping.com
+DOMAIN-wildcard, mquic-*.meituan.com
+DOMAIN, httpdnsmultiapi.meituan.com
+DOMAIN, httpdnsmultiapivip.meituan.com
+DOMAIN, httpdns.meituan.com
+DOMAIN, httpdnsvip.meituan.com
+DOMAIN, dnspod.meituan.httpdns.qcloud.com
+DOMAIN, dnspod.meituan.httpdns.start.qcloud.com
+IP-CIDR, 202.90.108.13/32
+IP-CIDR, 202.90.110.46/32
+IP-CIDR, 202.90.108.69/32
+IP-CIDR, 202.90.110.45/32
+IP-CIDR, 202.90.108.68/32
+IP-CIDR, 202.90.110.48/32
+IP-CIDR, 202.90.108.67/32
+IP-CIDR, 202.90.110.36/32
+IP-CIDR, 202.90.108.54/32
+IP-CIDR, 202.90.108.55/32
+IP-CIDR, 203.76.217.51/32
+IP-CIDR, 203.76.217.53/32
+IP-CIDR, 203.76.217.241/32
+IP-CIDR, 203.76.217.243/32
+IP-CIDR, 103.202.146.30/32
+IP-CIDR, 103.202.146.49/32
+IP-CIDR, 101.50.8.64/32
+IP-CIDR, 103.63.160.64/32
+IP-CIDR, 103.63.160.69/32
+IP-CIDR, 103.37.155.77/32
+IP-CIDR, 103.37.155.60/32
+IP-CIDR, 111.230.0.200/32
+IP-CIDR, 139.9.47.231/32
+IP-CIDR, 121.37.4.167/32
+IP-CIDR, 119.29.126.219/32
+IP-CIDR, 106.55.217.56/32
+IP-CIDR, 103.37.152.224/32
+IP-CIDR, 119.29.48.215/32
+IP-CIDR, 42.193.128.160/32
+IP-CIDR6, 2405:1480:3000:303b::303b/128
+IP-CIDR6, 2405:1480:1000:3::1e/128
+IP-CIDR6, 2405:1480:1000:4::15/128
+IP-CIDR6, 2402:4e00:40:40::2:373/128
+
 # > 腾讯
 DOMAIN-SUFFIX, wxs.qq.com
 IP-CIDR, 47.110.187.87/32, no-resolve
